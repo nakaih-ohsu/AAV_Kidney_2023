@@ -1,0 +1,16 @@
+####################################################################		
+# Filename"Sample_name_SBC_ID_SBC.txt"		
+# Sample_name ^t SBC-ID Rev ^t SBC. Sample_name_SBC-ID_BC1or2.txt will be the output file name.		
+####################################################################		
+Liver_DNA1	25	GAATCCCA
+Injected_Kidney_DNA1	26	CTGCTATG
+Uninjected_Kidney_DNA1	27	GAACCAGT
+Liver_DNA2	28	AAGAGCGT
+Injected_Kidney_DNA2	29	TCACATCG
+Uninjected_Kidney_DNA2	30	TAACGGAC
+Liver_DNA3	31	ACTTCGAC
+Injected_Kidney_DNA3	32	AAGCGGTT
+Uninjected_Kidney_DNA3	33	TACGACCA
+Liver_DNA4	34	TAGAGGCA
+Injected_Kidney_DNA4	35	GAGTGTTG
+Uninjected_Kidney_DNA4	36	TAGGTGTG

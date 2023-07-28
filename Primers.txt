@@ -1,0 +1,8 @@
+#####################################################################
+# File name "Primers.txt"
+# Primers.txt (BC1 For ^p BC1 Rev ^p BC2 For ^p BC2 Rev).
+####################################################################
+ACCTACGTACTTCCGCTCAT
+TCCCGACATCGTATTTCCGT
+ACGGAAATACGATGTCGGGA
+CTTCTCGTTGGGGTCTTTGC

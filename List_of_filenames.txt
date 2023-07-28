@@ -1,0 +1,16 @@
+####################################################################
+# Filename"List_of_filenames.txt"
+# The following information and files are needed for analysis.
+# 1. No of cores to be used (modify accordingly)
+# 2. Working directly (modify accordingly)
+# 3. Sample_name_SBC_ID_SBC.txt
+# 4. Primers.txt
+# 5. VBC.txt
+# 6. The raw data file location (modify accordingly)
+####################################################################
+44
+/home
+Sample_name_SBC_ID_SBC.txt
+Primers.txt
+VBC.txt
+/home
