@@ -1,0 +1,25 @@
+####################################################################		
+# Change filename to "Sample_name_SBC_ID_SBC.txt" before use		
+# Sample_name ^t SBC-ID Rev ^t SBC 		
+####################################################################		
+RV1_Liver_DNA	25	GAATCCCA
+RV1_LeftKidney_DNA	26	CTGCTATG
+RV1_RightKidney_DNA	27	GAACCAGT
+RV2_Liver_DNA	28	AAGAGCGT
+RV2_LeftKidney_DNA	29	TCACATCG
+RV2_RightKidney_DNA	30	TAACGGAC
+RV3_Liver_DNA	31	ACTTCGAC
+RV3_LeftKidney_DNA	32	AAGCGGTT
+RV3_RightKidney_DNA	33	TACGACCA
+RV4_Liver_DNA	34	TAGAGGCA
+RV4_LeftKidney_DNA	35	GAGTGTTG
+RV4_RightKidney_DNA	36	TAGGTGTG
+RP1_Liver_DNA	40	TCTAGCAG
+RP1_LeftKidney_DNA	41	CTAGTAGC
+RP1_RightKidney_DNA	43	ACCACTAG
+RP2_Liver_DNA	44	TATCCTCC
+RP2_LeftKidney_DNA	45	AAGGCACA
+RP2_RightKidney_DNA	46	GCAAGTAC
+RP3_Liver_DNA	47	AGTACAGC
+RP3_LeftKidney_DNA	48	GAATAGCG
+RP3_RightKidney_DNA	49	ACAGAACC
